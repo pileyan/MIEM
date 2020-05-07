@@ -1,2 +1,2 @@
 # MIEM
-1) On 2-legged Hubbard ladders
+1) On n-legged Hubbard ladders
